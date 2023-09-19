@@ -3,7 +3,7 @@
 ### About Me:
 
 I am a Machine Learning Engineer, Data Scientist, Android and Wear OS by Google Developer
-- exited about advances in eHealth, mobileHealth, personalised medicine
+- excited about advances in eHealth, mobileHealth, personalised medicine
 - interested in distributed ML and computation, mobile and cloud computing, federated ML
 
 ### Talks:
