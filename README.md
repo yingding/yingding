@@ -6,8 +6,8 @@ I am a Machine Learning Engineer, Data Scientist, Android and Wear OS by Google 
 - excited about advances in eHealth, mobileHealth, personalised medicine
 - interested in distributed ML and computation, mobile and cloud computing, federated ML
 
-### Opensource Contributions:
-- Creator of [ApplyLLM](https://pypi.org/project/applyllm/) PyPi package to help apply LLMs in local CUDA environment fast
+### OSS Contributions:
+- Creator of [ApplyLLM](https://pypi.org/project/applyllm/) PyPi python package to help apply LLMs in local CUDA environment fast
 
 ### Talks:
 
