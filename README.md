@@ -5,7 +5,7 @@
 I am a Machine Learning Engineer, Data Scientist, Android and Wear OS by Google Developer
 - excited about advances in eHealth, mobileHealth, personalised medicine
 - interested in distributed ML and computation, mobile and cloud computing, federated ML
-- championed GenAI and Agentic Workflows in research and data analytics 
+- championed GenAI and Agentic Workflows for research and data analytics 
 
 ### OSS Contributions:
 - Creator of [ApplyLLM](https://pypi.org/project/applyllm/) PyPI python package to help apply LLMs in local CUDA environment fast (Feburary 2024)
