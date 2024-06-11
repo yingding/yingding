@@ -10,7 +10,7 @@ I am a Machine Learning Engineer, Data Scientist, Android and Wear OS by Google 
 - Creator of [ApplyLLM](https://pypi.org/project/applyllm/) PyPI python package to help apply LLMs in local CUDA environment fast (Feburary 2024)
 
 ### Talks:
-
+- ["Road To Certification - Professional Data Engineer"](https://gdg.community.dev/gdg-cloud-munich/) as guest speaker at Google Developer Groups Cloud Munich virtual events (June-July 2024)
 - ["Level up Gemini with RAG Agent using Agent Builder"](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-google-cloud-next-watch-party-nordcloud-1/) at Google Developer Groups Cloud Munich "Cloud NEXT" event, at IBM Nordcloud (April 2024)
 - ["Entity extraction from medical reports in German with LLM on GCP"](https://gdg.community.dev/events/details/google-gdg-malta-presents-devfest-2023/) at Google Developer Groups Malta, DevFest on Campus 2023 Msida (December 2023)
 - ["SHAP 101: post-hoc model agnostic explanation and beyond"](https://www.meetup.com/de-DE/kaggle-munich/events/292114145/) at Kaggle Munich (18 April 2023)
