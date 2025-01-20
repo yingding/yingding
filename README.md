@@ -3,9 +3,9 @@
 ### About Me:
 
 I am an Analytics & AI Technology Specialist, Machine Learning Engineer, Data Scientist
-- interested in distributed & federated machine learning, mobile & cloud computing
+- interested in distributed and federated machine learning, mobile and cloud computing
 - excited about advances in eHealth, mobileHealth, personalised medicine
-- championed GenAI and Agentic Workflows for research and data analytics 
+- championed the use of GenAI and Agentic Workflows for research and data analytics 
 
 ### OSS Contributions:
 - Creator of [ApplyLLM](https://pypi.org/project/applyllm/) PyPI python package to help apply LLMs in local CUDA environment fast (Feburary 2024)
