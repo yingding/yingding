@@ -2,7 +2,7 @@
 
 ### About Me:
 
-I am an Analytics & AI Technology Specialist, Machine Learning Engineer, Data Scientist, Android and Wear OS by Google Developer
+I am an Analytics & AI Technology Specialist, Machine Learning Engineer, Data Scientist
 - excited about advances in eHealth, mobileHealth, personalised medicine
 - interested in distributed ML and computation, mobile and cloud computing, federated ML
 - championed GenAI and Agentic Workflows for research and data analytics 
